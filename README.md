@@ -3,7 +3,7 @@ Hello, I'am Érica
 
 🔭 I'am currently looking for a first opportunity as a developer
 
-https://www.linkedin.com/in/ericasilvaanalistadeprojetosti/🌱 I'am currently learning Java and also improving myself in Power BI and Data Analysis with Data Science
+🌱 I'am currently learning Java and also improving myself in Power BI and Data Analysis with Data Science
 
 👯 I'am confident that my solid technical background, combined with my project management skills and passion for development
 
