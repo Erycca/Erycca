@@ -1,17 +1,20 @@
-Hello, I'am Érica
+Olá, eu sou a Érica Silva 👋
 
+🎯 Desenvolvedora em formação, com foco em transição de carreira para a área de tecnologia.
 
-🔭 I'am currently looking for a first opportunity as a developer
+🔍 Atualmente, estou em busca da minha primeira oportunidade profissional como desenvolvedora.
 
-🌱 I'am currently learning Java and also improving myself in Power BI and Data Analysis with Data Science
+💻 Em constante evolução técnica, estou aprofundando meus conhecimentos em Java, Power BI e Análise de Dados com foco em Ciência de Dados.
 
-👯 I'am confident that my solid technical background, combined with my project management skills and passion for development
+📊 Minha trajetória inclui uma base sólida em áreas analíticas e de gestão, o que fortalece minha visão de negócio, minha capacidade de resolver problemas e atuar de forma colaborativa em projetos multidisciplinares.
 
-❓ I'm looking for help and tips with the Java language
+🚀 Busco desafios que me permitam aplicar meus conhecimentos técnicos e crescer junto com equipes inovadoras.
 
-😄 Pronouns: she/her
+📚 Interesso-me especialmente por boas práticas de desenvolvimento, estruturação de dados e metodologias ágeis.
 
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+🙋‍♀️ Pronomes: ela/dela
+
+📫 Vamos conversar? Estou aberta a conexões, trocas de conhecimento e oportunidades na área de tecnologia!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erycca&show_icons=true&theme=radical)
 
