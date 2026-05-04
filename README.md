@@ -2,7 +2,7 @@ Olá, eu sou a Érica Silva 👋
 
 🎯 Desenvolvedora em formação, com foco em transição de carreira para a área de tecnologia.
 
-🔍 Atualmente, estou em busca da minha primeira oportunidade profissional como desenvolvedora.
+🔍 Atualmente, estou em busca de uma oportunidade de recolocação na área de TI, focando em Dados e Segurança.
 
 💻 Em constante evolução técnica, estou aprofundando meus conhecimentos em Java, Power BI e Análise de Dados com foco em Ciência de Dados.
 
@@ -23,9 +23,13 @@ Olá, eu sou a Érica Silva 👋
           
  <div/>
 
- <a href="(link do comprovante)" target="_blank">
+ <div>
+   <a href="(link do comprovante)" target="_blank">
   <img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
 </a>
+ </div>
+
+ 
 
 
 
