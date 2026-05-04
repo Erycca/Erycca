@@ -16,18 +16,21 @@ Olá, eu sou a Érica Silva 👋
 
 📫 Vamos conversar? Estou aberta a conexões, trocas de conhecimento e oportunidades na área de tecnologia!
 
-
+Conecte-se comigo:
 
 <div>
   <a href="https://www.linkedin.com/in/ericasilvaanalistadeprojetosti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ><a/>
           
  <div/>
 
- <div>
+ CERTIFICAÇÃO  
+
+<div>
    <a href="(link do comprovante)" target="_blank">
   <img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
 </a>
  </div>
+ 
 
  
 
