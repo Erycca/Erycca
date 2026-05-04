@@ -23,7 +23,7 @@ Conecte-se comigo:
           
  <div/>
 
- CERTIFICAÇÃO  
+ #
 
 <div>
    <a href="(link do comprovante)" target="_blank">
