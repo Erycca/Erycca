@@ -1,38 +1,86 @@
-Olá, eu sou a Érica Silva 👋
+<h1 align="center">👩‍💻 Érica Serpa</h1>
 
-🎯 Desenvolvedora em formação, com foco em transição de carreira para a área de tecnologia.
+<p align="center">
+  <b>Computer Science Student | Java Developer | Cloud Enthusiast</b>
+</p>
 
-🔍 Atualmente, estou em busca de uma oportunidade de recolocação na área de TI, focando em Dados e Segurança.
+<p align="center">
+  <a href="https://github.com/Erycca">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
 
-💻 Em constante evolução técnica, estou aprofundando meus conhecimentos em Java, Power BI e Análise de Dados com foco em Ciência de Dados.
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
 
-📊 Minha trajetória inclui uma base sólida em áreas analíticas e de gestão, o que fortalece minha visão de negócio, minha capacidade de resolver problemas e atuar de forma colaborativa em projetos multidisciplinares.
+  <a href="SEU_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome">
+  </a>
+</p>
 
-🚀 Busco desafios que me permitam aplicar meus conhecimentos técnicos e crescer junto com equipes inovadoras.
+---
 
-📚 Interesso-me especialmente por boas práticas de desenvolvimento, estruturação de dados e metodologias ágeis.
+## 🚀 About Me
 
-🙋‍♀️ Pronomes: ela/dela
+🎓 Computer Science Student
 
-📫 Vamos conversar? Estou aberta a conexões, trocas de conhecimento e oportunidades na área de tecnologia!
+☁️ AWS Cloud Practitioner Certified
 
-Conecte-se comigo:
+💻 Focusing on Backend Development with Java
 
-<div>
-  <a href="https://www.linkedin.com/in/ericasilvaanalistadeprojetosti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ><a/>
-          
- <div/>
+📊 Data Analysis Enthusiast
 
- #
+📚 Continuous learner passionate about technology
 
-<div>
-   <a href="(link do comprovante)" target="_blank">
-  <img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
-</a>
- </div>
- 
+---
 
- 
+## ⚡ Quick Access
+
+| Resource | Link |
+|----------|-------|
+| 📂 Repositories | https://github.com/Erycca?tab=repositories |
+| ⭐ Projects | https://github.com/Erycca?tab=repositories |
+| 🏆 Certifications | LINK_CERTIFICADOS |
+| 💼 LinkedIn | LINK_LINKEDIN |
+| 📧 Contact | EMAIL |
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+
+### Data
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 🧠 Computer Science Interactive Terminal
+
+```text
+┌───────────────────────────────┐
+│ EricaOS v1.0                  │
+├───────────────────────────────┤
+│ > Skills                      │
+│ Java          ██████████ 90%  │
+│ SQL           █████████░ 85%  │
+│ AWS           ████████░░ 75%  │
+│ Python        ███████░░░ 70%  │
+│ Data Analysis ████████░░ 80%  │
+└───────────────────────────────┘
 
 
 
