@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+
+<style>
+    .bg {
+        fill: #000000;
+    }
+
+    .txt {
+        font-family: monospace;
+        font-size: 18px;
+        fill: #00ff41;
+    }
+
+    .cursor {
+        animation: blink 1s infinite;
+    }
+
+    @keyframes blink {
+        50% {
+            opacity: 0;
+        }
+    }
+
+    .line1 {
+        opacity: 0;
+        animation: appear 1s forwards;
+    }
+
+    .line2 {
+        opacity: 0;
+        animation: appear 1s forwards;
+        animation-delay: 2s;
+    }
+
+    .line3 {
+        opacity: 0;
+        animation: appear 1s forwards;
+        animation-delay: 4s;
+    }
+
+    .line4 {
+        opacity: 0;
+        animation: appear 1s forwards;
+        animation-delay: 6s;
+    }
+
+    .line5 {
+        opacity: 0;
+        animation: appear 1s forwards;
+        animation-delay: 8s;
+    }
+
+    @keyframes appear {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+</style>
+
+<rect class="bg" width="900" height="220"/>
+
+<text x="20" y="40" class="txt line1">
+&gt; Booting Computer Science Portfolio...
+</text>
+
+<text x="20" y="80" class="txt line2">
+&gt; Compiling Java Applications...
+</text>
+
+<text x="20" y="120" class="txt line3">
+&gt; Connecting AWS Cloud Services...
+</text>
+
+<text x="20" y="160" class="txt line4">
+&gt; Running SQL &amp; Data Analysis...
+</text>
+
+<text x="20" y="200" class="txt line5">
+&gt; Welcome to Erica's GitHub Profile <tspan class="cursor">█</tspan>
+</text>
+
+</svg>
