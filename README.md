@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/matrix.svg" width="900">
+</p>
+
+
 <h1 align="center">👩‍💻 Érica Serpa</h1>
 
 <p align="center">
