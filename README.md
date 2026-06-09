@@ -3,10 +3,10 @@
 </p>
 
 
-<h1 align="center">👩‍💻 Érica Serpa</h1>
+<h1 align="center">👩‍💻 Érica Silva</h1>
 
 <p align="center">
-  <b>Computer Science Student | Java Developer | Cloud Enthusiast</b>
+  <b>Computer Science Student  | Cloud Enthusiast | Data Science| Java Developer </b> 
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
 
-  <a href="SEU_LINKEDIN">
+  <a href="[SEU_LINKEDIN](https://www.linkedin.com/in/ericabarbosaanalista/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 
@@ -31,9 +31,9 @@
 
 ☁️ AWS Cloud Practitioner Certified
 
-💻 Focusing on Backend Development with Java
-
 📊 Data Analysis Enthusiast
+
+💻 Focusing on Backend Development with Java
 
 📚 Continuous learner passionate about technology
 
@@ -45,9 +45,9 @@
 |----------|-------|
 | 📂 Repositories | https://github.com/Erycca?tab=repositories |
 | ⭐ Projects | https://github.com/Erycca?tab=repositories |
-| 🏆 Certifications | LINK_CERTIFICADOS |
-| 💼 LinkedIn | LINK_LINKEDIN |
-| 📧 Contact | EMAIL |
+| 🏆 Certifications | [LINK_CERTIFICADOS](https://www.credly.com/badges/d764de20-dc70-413b-a9cd-7310739086b9/linked_in_profile) |
+| 💼 LinkedIn | [LINK_LINKEDIN](https://www.linkedin.com/in/ericabarbosaanalista/) |
+| 📧 Contact | erycca20@gmail.com |
 
 ---
 
