@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 
-  <a href=" https://erycca.github.io/portfoliaericati/">
+  <a href="https://erycca.github.io/portfoliaericati/">
     <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
