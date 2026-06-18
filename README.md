@@ -14,11 +14,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
 
-  <a href="[SEU_LINKEDIN](https://www.linkedin.com/in/ericabarbosaanalista/)">
+  <a href="https://www.linkedin.com/in/ericabarbosaanalista/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 
-  <a href="SEU_PORTFOLIO">
+  <a href=" https://erycca.github.io/portfoliaericati/">
     <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
